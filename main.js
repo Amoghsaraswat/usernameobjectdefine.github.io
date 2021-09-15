@@ -9,8 +9,8 @@ function setup() {
 function draw() {
     image(img,0,0,600,420);
     fill("red");
-    text("dog",30,30);
+    text("dog",30,40);
     noFill();
     stroke("red");
-    rect(30,30,620,420)
+    rect(50,60,620,420)
 }
